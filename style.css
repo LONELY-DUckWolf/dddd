@@ -1,0 +1,24 @@
+.body {
+    background-color: rgb(192, 109, 0);
+}
+
+.bob {
+    text-align: center;
+    color: yellow;
+
+}
+
+.I {
+    text-align: center;
+    color: purple; 
+}
+
+.II {
+    width: 260px;
+    height: 250px;
+    padding-left: 600px;
+}
+
+.section {
+    color: rgb(42, 0, 126);
+}
